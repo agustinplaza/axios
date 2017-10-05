@@ -1,0 +1,16 @@
+{
+  "name": "aws.axios",
+  "version": "1.0.0",
+  "homepage": "https://github.com/agustinplaza/axios.git",
+  "authors": [
+    "agustinplaza <apa@googling.barcelona>"
+  ],
+  "description": "AWS axios library",
+  "main": "axios.standalone.js",
+  "ignore":"",
+  "keywords": [
+    "axios"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
